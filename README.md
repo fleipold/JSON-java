@@ -1,4 +1,4 @@
-[![Maven Central](https://img.shields.io/maven-central/v/org.json/json?maxAge=2592000)](https://mvnrepository.com/artifact/org.json/json)
+[![Maven Central](https://img.shields.io/maven-central/v/org.json/json.svg)](https://mvnrepository.com/artifact/org.json/json)
 
 JSON in Java [package org.json]
 
